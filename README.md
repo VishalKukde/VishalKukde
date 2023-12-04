@@ -7,7 +7,7 @@
 </br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,materialui)](https://skillicons.dev)
-</br>
+
 <b>Top language</b>
  </br>
  </br>
@@ -16,6 +16,6 @@
 </br>
 </br>
 <b>Socials</b> 
- </br>
+</br>
   
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
