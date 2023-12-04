@@ -10,7 +10,7 @@ Hi! My name is Vishal Kukde 😄
 <br/>
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalkukde&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/kumawatlalit912/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalkukde&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Vishalkukde/github-readme-stats)
 
 ### Socials
 
