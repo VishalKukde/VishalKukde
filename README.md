@@ -1,6 +1,8 @@
 <h1> Hi! My name is Vishal Kukde 😄 </h1>
+
 <h2> 🌍 A Passionate Software Developer From India. </h2>
-<h1> Skills </h1>
+
+Skills 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,materialui)](https://skillicons.dev)
 
