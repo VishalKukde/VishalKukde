@@ -2,7 +2,7 @@
  🌍 A Passionate Software Developer From India.
 </br>
 </br>
-<b>Skills</b>  
+<b><h1>Skills</h1>h1></b>  
 </br>
 </br>
 
